@@ -4,10 +4,10 @@
              x:Class="Demo092023A.MainPage">
 
     <StackLayout>
-        <Button x:Name="Item1" Text="TxtMessage"/>
-        <Button x:Name="Item2" Text="TextToSpeechDemo"/>
-        <Button x:Name="Item3" Text="BatteryDemo"/>
-        <Button x:Name="Item4" Text="QRCodeScanner"/>
+        <Button x:Name="Item1" Text="PanDemo"/>
+        <Button x:Name="Item2" Text="PinchDemo"/>
+        <Button x:Name="Item3" Text="SwipeDemo"/>
+        <Button x:Name="Item4" Text="TapDemo"/>
     </StackLayout>
 
 </ContentPage>
