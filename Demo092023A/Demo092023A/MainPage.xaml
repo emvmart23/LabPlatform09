@@ -4,14 +4,10 @@
              x:Class="Demo092023A.MainPage">
 
     <StackLayout>
-        <Label x:Name="lblDemo"  Text="I'm a label" TextColor="White"               
-               BackgroundColor="Green" HeightRequest="200"/>
-        <Button x:Name="btnDemo"/>
-
-        <Label x:Name="lblDemoImage"  Text="I'm a label" TextColor="White"               
-               BackgroundColor="Green" HeightRequest="200"/>
-        <Image x:Name="image1" Source="tapped.jpg" HorizontalOptions="Center"
-                   VerticalOptions="CenterAndExpand"  ></Image>
+        <Button x:Name="Item1" Text="TxtMessage"/>
+        <Button x:Name="Item2" Text="TextToSpeechDemo"/>
+        <Button x:Name="Item3" Text="BatteryDemo"/>
+        <Button x:Name="Item4" Text="QRCodeScanner"/>
     </StackLayout>
 
 </ContentPage>
