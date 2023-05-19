@@ -10,8 +10,7 @@ namespace Demo092023A
 {
     public partial class MainPage : ContentPage
     {
-        bool isTap=false;
-        bool isVisible = false;
+
         public MainPage()
         {
             InitializeComponent();
